@@ -1,0 +1,1 @@
+Appointment Maker built with ReactJS. Saves contact's name, phone, and email on 'Add Contact' page, then schedules appointment by allowing selection of the added contact and specifying date and time of appointment.
