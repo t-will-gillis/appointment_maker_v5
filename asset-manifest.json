@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/appointment_maker_v5/static/js/main.b8243694.chunk.js",
+    "main.js.map": "/appointment_maker_v5/static/js/main.b8243694.chunk.js.map",
+    "runtime-main.js": "/appointment_maker_v5/static/js/runtime-main.16bfc055.js",
+    "runtime-main.js.map": "/appointment_maker_v5/static/js/runtime-main.16bfc055.js.map",
+    "static/js/2.e8a15425.chunk.js": "/appointment_maker_v5/static/js/2.e8a15425.chunk.js",
+    "static/js/2.e8a15425.chunk.js.map": "/appointment_maker_v5/static/js/2.e8a15425.chunk.js.map",
+    "index.html": "/appointment_maker_v5/index.html",
+    "static/js/2.e8a15425.chunk.js.LICENSE.txt": "/appointment_maker_v5/static/js/2.e8a15425.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16bfc055.js",
+    "static/js/2.e8a15425.chunk.js",
+    "static/js/main.b8243694.chunk.js"
+  ]
+}
